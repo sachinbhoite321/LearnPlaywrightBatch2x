@@ -18,8 +18,18 @@ LearnPlaywrightBatch2x/
 ├── chapter_03_Identifier_Literals/
 │   ├── 06_Identifier_Rules.js
 │   ├── 07_Identifiers_part2.js
-│   └── VS_Code_Shortcut_win.md
-├── 08_Comments.js
+│   └── 08_Comments.js
+├── chapter_04_JavaScript_Concepts/
+│   ├── 09_var_let_const.js
+│   ├── 10_Functions.js
+│   ├── 11_var_Explained.js
+│   ├── 12_let_Peopele_love.js
+│   ├── 13_const_explained.js
+│   ├── 14_Var_functionscope.js
+│   ├── 15_Let_Scope.js
+│   ├── 16_Hoisting.js
+│   └── 17_Hoisting_fn.js
+├── VS_Code_Shortcut_win.md
 └── README.md
 ```
 
@@ -31,8 +41,8 @@ LearnPlaywrightBatch2x/
 |---------|-------|-------|
 | **Chapter 01** | JavaScript Basics | `01_Basic.js`, `03_js_commands.js`, `04_Hotcode.js` |
 | **Chapter 02** | JavaScript Concepts | `05_Js_Basics.js` |
-| **Chapter 03** | Identifiers & Literals | `06_Identifier_Rules.js`, `07_Identifiers_part2.js` |
-| **Extras** | Comments in JS | `08_Comments.js` |
+| **Chapter 03** | Identifiers & Literals | `06_Identifier_Rules.js`, `07_Identifiers_part2.js`, `08_Comments.js` |
+| **Chapter 04** | JavaScript Concepts (Advanced) | `09_var_let_const.js`, `10_Functions.js`, `11_var_Explained.js`, `12_let_Peopele_love.js`, `13_const_explained.js`, `14_Var_functionscope.js`, `15_Let_Scope.js`, `16_Hoisting.js`, `17_Hoisting_fn.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
@@ -66,7 +76,7 @@ LearnPlaywrightBatch2x/
 
 A handy reference of **VS Code Keyboard Shortcuts for Windows** is available here:
 
-📄 [`chapter_03_Identifier_Literals/VS_Code_Shortcut_win.md`](./chapter_03_Identifier_Literals/VS_Code_Shortcut_win.md)
+📄 [`VS_Code_Shortcut_win.md`](./VS_Code_Shortcut_win.md)
 
 ---
 
