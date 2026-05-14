@@ -28,7 +28,20 @@ LearnPlaywrightBatch2x/
 │   ├── 14_Var_functionscope.js
 │   ├── 15_Let_Scope.js
 │   ├── 16_Hoisting.js
-│   └── 17_Hoisting_fn.js
+│   ├── 17_Hoisting_fn.js
+│   ├── 18_Let_Hoisting.js
+│   ├── 19_Let_Hoisting_block.js
+│   ├── 20_let_const_hoisting.js
+│   └── 21_jr_QA.js
+├── chapter_05_Literal/
+│   ├── 22_Literal.js
+│   ├── 23_null_undefined.js
+│   ├── 24_null.js
+│   ├── 25_Literal_All.js
+│   ├── 26_Literal_Number_all.js
+│   ├── 27_String.js
+│   ├── 28_Template_literal.js
+│   └── 29_Backtick_single_double.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -42,7 +55,8 @@ LearnPlaywrightBatch2x/
 | **Chapter 01** | JavaScript Basics | `01_Basic.js`, `03_js_commands.js`, `04_Hotcode.js` |
 | **Chapter 02** | JavaScript Concepts | `05_Js_Basics.js` |
 | **Chapter 03** | Identifiers & Literals | `06_Identifier_Rules.js`, `07_Identifiers_part2.js`, `08_Comments.js` |
-| **Chapter 04** | JavaScript Concepts (Advanced) | `09_var_let_const.js`, `10_Functions.js`, `11_var_Explained.js`, `12_let_Peopele_love.js`, `13_const_explained.js`, `14_Var_functionscope.js`, `15_Let_Scope.js`, `16_Hoisting.js`, `17_Hoisting_fn.js` |
+| **Chapter 04** | JavaScript Concepts (Advanced) | `09_var_let_const.js`, `10_Functions.js`, `11_var_Explained.js`, `12_let_Peopele_love.js`, `13_const_explained.js`, `14_Var_functionscope.js`, `15_Let_Scope.js`, `16_Hoisting.js`, `17_Hoisting_fn.js`, `18_Let_Hoisting.js`, `19_Let_Hoisting_block.js`, `20_let_const_hoisting.js`, `21_jr_QA.js` |
+| **Chapter 05** | Literals in JavaScript | `22_Literal.js`, `23_null_undefined.js`, `24_null.js`, `25_Literal_All.js`, `26_Literal_Number_all.js`, `27_String.js`, `28_Template_literal.js`, `29_Backtick_single_double.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
