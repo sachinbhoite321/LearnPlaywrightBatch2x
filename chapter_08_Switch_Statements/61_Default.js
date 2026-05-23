@@ -1,4 +1,4 @@
-let day = 2;
+let day = 8;
 switch (day) {
     case 1:
         console.log("Mon");
