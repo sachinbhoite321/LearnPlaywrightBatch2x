@@ -87,6 +87,19 @@ LearnPlaywrightBatch2x/
 │   ├── 68_User_Input.js
 │   ├── 69_Node_readline.js
 │   └── 70_prompt_sync.js
+├── chapter_10_Loops/
+│   ├── 71_For_Loop.js
+│   ├── 72_For_Loops.js
+│   ├── 73_For_Loops2.js
+│   ├── 74_IQ.js
+│   ├── 75_For_OF_IN_EACH.js
+│   ├── 76_While.js
+│   ├── 77_Do_While.js
+│   ├── 78_Do_While.js
+│   ├── 79_IQ.js
+│   ├── 80_IQ.js
+│   ├── 81_IQ.js
+│   └── 82_IQ.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -106,6 +119,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 07** | If-Else Statements | `48_IF_ELSE.js`, `49_If_elseif_else.js`, `50_REAL_IF_ELSE.JS`, `51_API_IF_ELSE.js`, `52_IQ_IF_ELSE.js`, `53_IF_ELSE_real.js`, `54_IQ.js`, `55_IF.js`, `56_IQ_EVEN_ODD.js`, `57_IQ_Grade_Code.js`, `58_IQ_LEAP_YEAR.js` |
 | **Chapter 08** | Switch Statements | `59.Switch.js`, `60_No_Break.js`, `61_Default.js`, `62_REAL_TIME_EXAMPLE.js`, `63_Switch_Group.js`, `64_IQ.js`, `65_IQ2.js`, `66_IQ3.js`, `67_IQ4.js` |
 | **Chapter 09** | User Input | `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js` |
+| **Chapter 10** | Loops in JavaScript | `71_For_Loop.js`, `72_For_Loops.js`, `73_For_Loops2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While.js`, `77_Do_While.js`, `78_Do_While.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
