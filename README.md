@@ -100,6 +100,15 @@ LearnPlaywrightBatch2x/
 │   ├── 80_IQ.js
 │   ├── 81_IQ.js
 │   └── 82_IQ.js
+├── chapter_11_Arrays/
+│   ├── 83_Array.js
+│   ├── 84.Array.js
+│   ├── 85_Access_Array.js
+│   ├── 86_Arrays_Adding_Remove.js
+│   ├── 87_Array_Adding_Remove2.js
+│   ├── 88_REAL_Example.js
+│   ├── 89_Searching.js
+│   └── 90_Iterate.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -120,6 +129,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 08** | Switch Statements | `59.Switch.js`, `60_No_Break.js`, `61_Default.js`, `62_REAL_TIME_EXAMPLE.js`, `63_Switch_Group.js`, `64_IQ.js`, `65_IQ2.js`, `66_IQ3.js`, `67_IQ4.js` |
 | **Chapter 09** | User Input | `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js` |
 | **Chapter 10** | Loops in JavaScript | `71_For_Loop.js`, `72_For_Loops.js`, `73_For_Loops2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While.js`, `77_Do_While.js`, `78_Do_While.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js` |
+| **Chapter 11** | Arrays in JavaScript | `83_Array.js`, `84.Array.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Array_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
