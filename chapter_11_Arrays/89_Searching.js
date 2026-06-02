@@ -13,5 +13,15 @@ console.log(result.includes("skip"));// false
 //find the serching element
 
 let num = [10, 20, 30, 40];
-num.find(x => x < 20);//10
-console.log(num.find(x => x < 20));
+let abc = num.find(x => x > 20);//10 first value will return if want all then filter is used
+//console.log(num.find(x => x > 20);
+console.log(abc);
+
+//find Indexs
+//num.findIndex(n => x > 20);
+console.log(num.findIndex(n => n > 20));
+
+console.log(num.findLast(n => n > 20));
+
+console.log(num.findLastIndex(n => n > 20));
+
