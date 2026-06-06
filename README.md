@@ -108,8 +108,19 @@ LearnPlaywrightBatch2x/
 │   ├── 87_Array_Adding_Remove2.js
 │   ├── 88_REAL_Example.js
 │   ├── 89_Searching.js
-│   └── 90_Iterate.js
+│   ├── 90_Iterate.js
+│   ├── 92_Arrays.js
+│   ├── 93_Arrays.Slice.js
+│   ├── 94_Concate_Array.js
+│   └── 95_Arrays.Checking.js
 ├── chapter_12_Functions/
+│   ├── 96_Functions.js
+│   ├── 97_Type1_Basic_Fn.js
+│   ├── 98_Type2_Fn_with_para_noret.js
+│   ├── 99_Type3_Fn_Without_param_WithReturn.js
+│   ├── 100_Type4_with_para_with_return.js
+│   ├── 101_Template_literal.js
+│   ├── 102_Fn_Expression.js
 │   ├── 103_Arrow_Fn.js
 │   ├── 104_Arrow_Fn.REAL.js
 │   ├── 105_IIFE.js
@@ -145,8 +156,8 @@ LearnPlaywrightBatch2x/
 | **Chapter 08** | Switch Statements | `59.Switch.js`, `60_No_Break.js`, `61_Default.js`, `62_REAL_TIME_EXAMPLE.js`, `63_Switch_Group.js`, `64_IQ.js`, `65_IQ2.js`, `66_IQ3.js`, `67_IQ4.js` |
 | **Chapter 09** | User Input | `68_User_Input.js`, `69_Node_readline.js`, `70_prompt_sync.js` |
 | **Chapter 10** | Loops in JavaScript | `71_For_Loop.js`, `72_For_Loops.js`, `73_For_Loops2.js`, `74_IQ.js`, `75_For_OF_IN_EACH.js`, `76_While.js`, `77_Do_While.js`, `78_Do_While.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js` |
-| **Chapter 11** | Arrays in JavaScript | `83_Array.js`, `84.Array.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Array_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js` |
-| **Chapter 12** | Functions in JavaScript | `103_Arrow_Fn.js`, `104_Arrow_Fn.REAL.js`, `105_IIFE.js`, `106_Default_Param.js`, `107_IQ.js`, `108_Rest_Param_Fn.js`, `109_IQ.js`, `110_Spread_IQ.js`, `111_Scope_Fn.js`, `112_IQ.js`, `113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`, `116_Higher_order_fn.js`, `117_Pure_Fn.js` |
+| **Chapter 11** | Arrays in JavaScript | `83_Array.js`, `84.Array.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Array_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js`, `92_Arrays.js`, `93_Arrays.Slice.js`, `94_Concate_Array.js`, `95_Arrays.Checking.js` |
+| **Chapter 12** | Functions in JavaScript | `96_Functions.js`, `97_Type1_Basic_Fn.js`, `98_Type2_Fn_with_para_noret.js`, `99_Type3_Fn_Without_param_WithReturn.js`, `100_Type4_with_para_with_return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_Fn.js`, `104_Arrow_Fn.REAL.js`, `105_IIFE.js`, `106_Default_Param.js`, `107_IQ.js`, `108_Rest_Param_Fn.js`, `109_IQ.js`, `110_Spread_IQ.js`, `111_Scope_Fn.js`, `112_IQ.js`, `113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`, `116_Higher_order_fn.js`, `117_Pure_Fn.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
