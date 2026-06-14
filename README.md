@@ -165,6 +165,16 @@ LearnPlaywrightBatch2x/
 │   ├── 141_2d_Array_Fn.js
 │   ├── 142_IQ_Right_pattern.js
 │   └── Task_Reverse_Py.js
+├── chapter_16_Callback/
+│   ├── 143_Callback.js
+│   ├── 144_CB.js
+│   ├── 145_CB_fn.js
+│   ├── 146_PW_CB.js
+│   ├── 147_JS_CB.js
+│   ├── 148_Sync_CB.js
+│   ├── 149_Async_Cb.js
+│   ├── 150_CB_hell.js
+│   └── 151_CB_hell_20steps.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -190,6 +200,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 13** | Strings in JavaScript | `118_String.js`, `119_String_Properties.js`, `120_Search_Check_String.js`, `121_Substring.js`, `122_Transform_String.js`, `123_String_Conversion.js` |
 | **Chapter 14** | Objects in JavaScript | `124_Objects.js`, `125_Objects2.js`, `126_Object_Creations.js`, `127_Object_REAL.js`, `128_Primitive_Ref.js`, `129_Obj_Example.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Deconstruction.js`, `133_Spread.js`, `134_Object_GET_SET_Methods.js`, `135_IQ.js`, `136_Object_RealinPlaywrite.js`, `137_Let_Const_Obj.js` |
 | **Chapter 15** | 2D Arrays in JavaScript | `138_2D_Array.js`, `139_2d_Matrix.js`, `140_REAL.js`, `141_2d_Array_Fn.js`, `142_IQ_Right_pattern.js`, `Task_Reverse_Py.js` |
+| **Chapter 16** | Callbacks in JavaScript | `143_Callback.js`, `144_CB.js`, `145_CB_fn.js`, `146_PW_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_Cb.js`, `150_CB_hell.js`, `151_CB_hell_20steps.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
