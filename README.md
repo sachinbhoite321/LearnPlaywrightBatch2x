@@ -143,6 +143,21 @@ LearnPlaywrightBatch2x/
 │   ├── 121_Substring.js
 │   ├── 122_Transform_String.js
 │   └── 123_String_Conversion.js
+├── chapter_14_Objects/
+│   ├── 124_Objects.js
+│   ├── 125_Objects2.js
+│   ├── 126_Object_Creations.js
+│   ├── 127_Object_REAL.js
+│   ├── 128_Primitive_Ref.js
+│   ├── 129_Obj_Example.js
+│   ├── 130_IQ.js
+│   ├── 131_Object_Fn.js
+│   ├── 132_Obj_Deconstruction.js
+│   ├── 133_Spread.js
+│   ├── 134_Object_GET_SET_Methods.js
+│   ├── 135_IQ.js
+│   ├── 136_Object_RealinPlaywrite.js
+│   └── 137_Let_Const_Obj.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -166,6 +181,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 11** | Arrays in JavaScript | `83_Array.js`, `84.Array.js`, `85_Access_Array.js`, `86_Arrays_Adding_Remove.js`, `87_Array_Adding_Remove2.js`, `88_REAL_Example.js`, `89_Searching.js`, `90_Iterate.js`, `92_Arrays.js`, `93_Arrays.Slice.js`, `94_Concate_Array.js`, `95_Arrays.Checking.js` |
 | **Chapter 12** | Functions in JavaScript | `96_Functions.js`, `97_Type1_Basic_Fn.js`, `98_Type2_Fn_with_para_noret.js`, `99_Type3_Fn_Without_param_WithReturn.js`, `100_Type4_with_para_with_return.js`, `101_Template_literal.js`, `102_Fn_Expression.js`, `103_Arrow_Fn.js`, `104_Arrow_Fn.REAL.js`, `105_IIFE.js`, `106_Default_Param.js`, `107_IQ.js`, `108_Rest_Param_Fn.js`, `109_IQ.js`, `110_Spread_IQ.js`, `111_Scope_Fn.js`, `112_IQ.js`, `113_Closure.js`, `114_Closure.js`, `115_API_REAL_Closure.js`, `116_Higher_order_fn.js`, `117_Pure_Fn.js` |
 | **Chapter 13** | Strings in JavaScript | `118_String.js`, `119_String_Properties.js`, `120_Search_Check_String.js`, `121_Substring.js`, `122_Transform_String.js`, `123_String_Conversion.js` |
+| **Chapter 14** | Objects in JavaScript | `124_Objects.js`, `125_Objects2.js`, `126_Object_Creations.js`, `127_Object_REAL.js`, `128_Primitive_Ref.js`, `129_Obj_Example.js`, `130_IQ.js`, `131_Object_Fn.js`, `132_Obj_Deconstruction.js`, `133_Spread.js`, `134_Object_GET_SET_Methods.js`, `135_IQ.js`, `136_Object_RealinPlaywrite.js`, `137_Let_Const_Obj.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
