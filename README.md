@@ -180,6 +180,14 @@ LearnPlaywrightBatch2x/
 │   ├── 144_CB.js
 │   ├── 145_CB_fn.js
 │   └── 146_PW_CB.js
+├── chapter_17_Promise/
+│   ├── 154_Promise.js
+│   ├── 155_Promise_REAL_API.js
+│   ├── 156_Promise_REAL_API2.js
+│   ├── 157_Finally.js
+│   ├── 158_Call_py_problem.js
+│   ├── 159_Promise_ALL.js
+│   └── 160_Promise_IQ.js
 ├── chapter_19_Playwrite_Basics/
 │   ├── package.json
 │   └── package-lock.json
@@ -210,6 +218,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 15** | 2D Arrays in JavaScript | `138_2D_Array.js`, `139_2d_Matrix.js`, `140_REAL.js`, `141_2d_Array_Fn.js`, `142_IQ_Right_pattern.js`, `Task_Reverse_Py.js` |
 | **Chapter 16** | Callbacks in JavaScript | `143_Callback.js`, `144_CB.js`, `145_CB_fn.js`, `146_PW_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_Cb.js`, `150_CB_hell.js`, `151_CB_hell_20steps.js` |
 | **Chapter 16P** | Callback Practice | `142_callback1.js`, `143_callback.js`, `144_CB.js`, `144_CB1.js`, `145_CB_Fn1.js`, `145_CB_fn.js`, `146_PW_CB.js`, `146_PW_CB1.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async.js`, `150_CB_hell.js`, `151_CB_hell1.js`, `152_CB_parameter.js`, `153_CB_return.js` |
+| **Chapter 17** | Promises in JavaScript | `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API2.js`, `157_Finally.js`, `158_Call_py_problem.js`, `159_Promise_ALL.js`, `160_Promise_IQ.js` |
 | **Chapter 19** | Playwright Basics (Scaffold) | `package.json` with Playwright v1.61 dependency |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
