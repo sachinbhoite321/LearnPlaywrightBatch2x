@@ -188,9 +188,27 @@ LearnPlaywrightBatch2x/
 │   ├── 158_Call_py_problem.js
 │   ├── 159_Promise_ALL.js
 │   └── 160_Promise_IQ.js
+├── chapter_18_Asyc_Await/
+│   ├── 161_Async.js
+│   ├── 162_Async_P2.js
+│   ├── 163_PyramidDom.js
+│   ├── 164_Async_EX.js
+│   ├── 165_AA_Sequential.js
+│   ├── 166_AA_Parallel.js
+│   └── 166_IQ.js
 ├── chapter_19_Playwrite_Basics/
 │   ├── package.json
 │   └── package-lock.json
+├── chapter_20_Oops_Basics/
+│   └── 02_Class_Objects/
+│       ├── 171_Object_class.js
+│       ├── 172_Object_class2.js
+│       ├── 173_Car.js
+│       ├── 174_REAL_Browser.js
+│       ├── 175_IQ.js
+│       ├── 176_Public_Private.js
+│       ├── 177_Static.js
+│       └── 178_Statics.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -219,7 +237,9 @@ LearnPlaywrightBatch2x/
 | **Chapter 16** | Callbacks in JavaScript | `143_Callback.js`, `144_CB.js`, `145_CB_fn.js`, `146_PW_CB.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_Cb.js`, `150_CB_hell.js`, `151_CB_hell_20steps.js` |
 | **Chapter 16P** | Callback Practice | `142_callback1.js`, `143_callback.js`, `144_CB.js`, `144_CB1.js`, `145_CB_Fn1.js`, `145_CB_fn.js`, `146_PW_CB.js`, `146_PW_CB1.js`, `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async.js`, `150_CB_hell.js`, `151_CB_hell1.js`, `152_CB_parameter.js`, `153_CB_return.js` |
 | **Chapter 17** | Promises in JavaScript | `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API2.js`, `157_Finally.js`, `158_Call_py_problem.js`, `159_Promise_ALL.js`, `160_Promise_IQ.js` |
+| **Chapter 18** | Async/Await in JavaScript | `161_Async.js`, `162_Async_P2.js`, `163_PyramidDom.js`, `164_Async_EX.js`, `165_AA_Sequential.js`, `166_AA_Parallel.js`, `166_IQ.js` |
 | **Chapter 19** | Playwright Basics (Scaffold) | `package.json` with Playwright v1.61 dependency |
+| **Chapter 20** | OOPs Basics in JavaScript | `171_Object_class.js`, `172_Object_class2.js`, `173_Car.js`, `174_REAL_Browser.js`, `175_IQ.js`, `176_Public_Private.js`, `177_Static.js`, `178_Statics.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
