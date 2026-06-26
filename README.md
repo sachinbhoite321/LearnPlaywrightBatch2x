@@ -200,15 +200,19 @@ LearnPlaywrightBatch2x/
 │   ├── package.json
 │   └── package-lock.json
 ├── chapter_20_Oops_Basics/
-│   └── 02_Class_Objects/
-│       ├── 171_Object_class.js
-│       ├── 172_Object_class2.js
-│       ├── 173_Car.js
-│       ├── 174_REAL_Browser.js
-│       ├── 175_IQ.js
-│       ├── 176_Public_Private.js
-│       ├── 177_Static.js
-│       └── 178_Statics.js
+│   ├── 02_Class_Objects/
+│   │   ├── 171_Object_class.js
+│   │   ├── 172_Object_class2.js
+│   │   ├── 173_Car.js
+│   │   ├── 174_REAL_Browser.js
+│   │   ├── 175_IQ.js
+│   │   ├── 176_Public_Private.js
+│   │   ├── 177_Static.js
+│   │   └── 178_Statics.js
+│   └── Tasks/
+│       └── Tasks/
+│           ├── Task1.js
+│           └── Task2.js
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -239,7 +243,7 @@ LearnPlaywrightBatch2x/
 | **Chapter 17** | Promises in JavaScript | `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API2.js`, `157_Finally.js`, `158_Call_py_problem.js`, `159_Promise_ALL.js`, `160_Promise_IQ.js` |
 | **Chapter 18** | Async/Await in JavaScript | `161_Async.js`, `162_Async_P2.js`, `163_PyramidDom.js`, `164_Async_EX.js`, `165_AA_Sequential.js`, `166_AA_Parallel.js`, `166_IQ.js` |
 | **Chapter 19** | Playwright Basics (Scaffold) | `package.json` with Playwright v1.61 dependency |
-| **Chapter 20** | OOPs Basics in JavaScript | `171_Object_class.js`, `172_Object_class2.js`, `173_Car.js`, `174_REAL_Browser.js`, `175_IQ.js`, `176_Public_Private.js`, `177_Static.js`, `178_Statics.js` |
+| **Chapter 20** | OOPs Basics in JavaScript | `171_Object_class.js`, `172_Object_class2.js`, `173_Car.js`, `174_REAL_Browser.js`, `175_IQ.js`, `176_Public_Private.js`, `177_Static.js`, `178_Statics.js`, `Task1.js`, `Task2.js` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
