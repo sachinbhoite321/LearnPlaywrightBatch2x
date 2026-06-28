@@ -234,6 +234,22 @@ LearnPlaywrightBatch2x/
 │   └── Tasks/
 │       ├── Task1.js
 │       └── Task2.js
+├── chapter_21_TypeScript/
+│   ├── 193_TS.js
+│   ├── 194_Hello_TS.js
+│   ├── 194_Hello_TS.ts
+│   ├── 195_TS_Part1.ts
+│   ├── 196_TS_Part2.ts
+│   ├── 197_TS_Part2.ts
+│   ├── 198_TS_Part3.ts
+│   ├── 199_IQ.ts
+│   └── 200_IQ.ts
+├── chapter_22_TypeScript_Interface/
+│   ├── 201_IF.ts
+│   ├── 202_IF_Part2.ts
+│   ├── 203_IF_ReadOnly.ts
+│   └── 204_IF_ReadOnly.ts
+├── tsconfig.json
 ├── VS_Code_Shortcut_win.md
 └── README.md
 ```
@@ -265,6 +281,8 @@ LearnPlaywrightBatch2x/
 | **Chapter 18** | Async/Await in JavaScript | `161_Async.js`, `162_Async_P2.js`, `163_PyramidDom.js`, `164_Async_EX.js`, `165_AA_Sequential.js`, `166_AA_Parallel.js`, `166_IQ.js` |
 | **Chapter 19** | Playwright Basics (Scaffold) | `package.json` with Playwright v1.61 dependency |
 | **Chapter 20** | OOPs Basics in JavaScript | `02_Class_Objects/` (8 files), `03_Encapsulation/` (4 files), `04_Inheritance/` (9 files), `05_Polymorphism/` (1 file), `Interview_Qutestions/` (4 files), `Tasks/` (2 files) |
+| **Chapter 21** | TypeScript Basics | `193_TS.js`, `194_Hello_TS.js`, `194_Hello_TS.ts`, `195_TS_Part1.ts`, `196_TS_Part2.ts`, `197_TS_Part2.ts`, `198_TS_Part3.ts`, `199_IQ.ts`, `200_IQ.ts` |
+| **Chapter 22** | TypeScript Interface | `201_IF.ts`, `202_IF_Part2.ts`, `203_IF_ReadOnly.ts`, `204_IF_ReadOnly.ts` |
 | **Extras** | VS Code Shortcuts (Windows) | `VS_Code_Shortcut_win.md` |
 
 ---
